@@ -1,5 +1,5 @@
 # Serv-Service
- Multi-Service Center Service Management System 
+ Multi-Service Center Service Management System.
 • Developed a multi-service-center platform using PHP, MySQL, HTML, CSS, and JavaScript for service
 registration and request management.
 • Designed optimized MySQL schemas and implemented role-based access control for customers, service centers, and
